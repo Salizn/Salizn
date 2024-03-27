@@ -2,7 +2,9 @@
 
 <h2>Game Development Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Client Work Projects](https://github.com/Salizn/ClientWorkProjects)
+  - [Soulcatcher](https://github.com/Salizn/SoulcatcherProject)
+  - [Ecliptic Depths](https://github.com/Salizn/EclipticProject)
 
 <h2>Project Videos</h2>
 
